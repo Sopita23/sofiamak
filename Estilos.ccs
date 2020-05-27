@@ -1,0 +1,15 @@
+h1{
+background:salmon;
+color:white;
+}
+img{
+width: 250px;
+float: right;
+margin-left: 10px;
+margin-bottom: 6px;
+}
+a{
+position:relative;
+top:5px;
+left:450px;
+}
